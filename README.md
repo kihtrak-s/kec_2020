@@ -1,2 +1,2 @@
-# kec_2020
+# Sample Code
 Sample code discussed with KEC students in 2020
